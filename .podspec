@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.author                = 'NSCoding'
   s.ios.deployment_target = '6.0'
   s.osx.deployment_target = '10.7'
-  s.source                = { :git => 'https://github.com/ColorFuzzy/NSKit.git', :tag => '1.0.5' }
+  s.source                = { :git => 'https://github.com/ColorFuzzy/NSKit.git', :Branch => 'X1.0.5' }
   s.source_files          = 'NSKit'
   s.requires_arc          = true
   s.summary               = 'Is a collection of well-documented Data Structures, Helpers and Categories to simplify and solve common problems when you develop your cocoa application.'
